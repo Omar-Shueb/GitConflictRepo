@@ -1,7 +1,6 @@
 # GitConflictRepo
 
-Git conflict test
-Stars
-In
-The
-Roof
+ssss
+My name is Chris
+ssssss
+sss
